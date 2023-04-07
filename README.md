@@ -12,6 +12,7 @@ You can download the necessary data from the following link:
 
 https://www.kaggle.com/datasets/sohier/calcofi
 
+## Usage
 - Clone this repository.
 - Download the CalCOFI dataset from the link mentioned above.
 - Open the Jupyter Notebook and run the code cell by cell.
